@@ -1,0 +1,61 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    margin: auto 20px;
+}
+.header-logo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    color: #000;
+    font-size: 74px;
+    text-align: center;
+    margin-top: 20px;
+}
+.header-inner{
+    display: flex;
+}
+.header-title{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 74px;
+    width: 898.71px;
+    margin-top: 250px;
+    margin-bottom: 20px;
+    line-height: 89.18%;
+}
+.header-btn a{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    text-decoration: none;
+
+    width: 237.66px;
+    height: 45.84px;
+
+    border: #000 6px solid;
+    border-radius: 11px;
+    padding: 4px 10px;
+    background-color:#fff;
+}
+.phone-1{
+    width: 268.51px ;
+    height: 507.06px ;
+    position: absolute;
+    
+    z-index: 1;
+
+    right: 80px;
+    bottom: 100px;
+}
+.phone-2{
+    width: 436.25px ;
+    height: 476.3px ;
+    position: absolute;
+    
+    z-index: 2;
+    
+    right: 141px;
+    bottom: 86px;
+}
